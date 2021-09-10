@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/PortfolioReact/static/css/main.bcc72570.chunk.css",
+    "main.css": "/PortfolioReact/static/css/main.af605323.chunk.css",
     "main.js": "/PortfolioReact/static/js/main.a6202b7f.chunk.js",
     "main.js.map": "/PortfolioReact/static/js/main.a6202b7f.chunk.js.map",
     "runtime-main.js": "/PortfolioReact/static/js/runtime-main.21932b23.js",
@@ -8,14 +8,14 @@
     "static/js/2.d9cdc927.chunk.js": "/PortfolioReact/static/js/2.d9cdc927.chunk.js",
     "static/js/2.d9cdc927.chunk.js.map": "/PortfolioReact/static/js/2.d9cdc927.chunk.js.map",
     "index.html": "/PortfolioReact/index.html",
-    "static/css/main.bcc72570.chunk.css.map": "/PortfolioReact/static/css/main.bcc72570.chunk.css.map",
+    "static/css/main.af605323.chunk.css.map": "/PortfolioReact/static/css/main.af605323.chunk.css.map",
     "static/js/2.d9cdc927.chunk.js.LICENSE.txt": "/PortfolioReact/static/js/2.d9cdc927.chunk.js.LICENSE.txt",
     "static/media/index.css": "/PortfolioReact/static/media/writersblock.e6e1ce79.png"
   },
   "entrypoints": [
     "static/js/runtime-main.21932b23.js",
     "static/js/2.d9cdc927.chunk.js",
-    "static/css/main.bcc72570.chunk.css",
+    "static/css/main.af605323.chunk.css",
     "static/js/main.a6202b7f.chunk.js"
   ]
 }
