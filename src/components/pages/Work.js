@@ -24,19 +24,19 @@ export default function Work() {
             </div>
           </div>
         </a>
-        <a href="" class= 'project'>
+        <a href="https://the-little-guy.herokuapp.com/" class= 'project'>
           <div class="small">
-            <div class="small_projects_slot" id="">
+            <div class="small_projects_slot" id="little">
               <h3>the little guy</h3>
             </div>
           </div>
         </a>
         </div>
         <div class="small_project_container">
-        <a href="" class= 'project'>
+        <a href="https://zchalk.github.io/sk8erboyz/" class= 'project'>
           <div class="small">
-            <div class="small_projects_slot" id="">
-              <h3>book search app</h3>
+            <div class="small_projects_slot" id="endless">
+              <h3>endless pawsibilities</h3>
             </div>
           </div>
         </a>
