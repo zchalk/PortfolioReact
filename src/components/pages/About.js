@@ -9,9 +9,8 @@ export default function About() {
         I am a full stack MERN developer with an interest in React. My goals when working a project are to capture an aesthetic
         and develop a seamless user experience. I also have a passion for
         developing effective communication with both my team and individuals.
-         I am presently located in Fayetteville, NC. I am still in a
-        full stack bootcamp through UNC Chapel Hill and expect to graduate in
-        July 2021. My husband and I are due to move to Okinawa, Japan early 2022.
+         I am presently located in Fayetteville, NC. I graduated
+        UNC Chapel Hill's full stack bootcamp in July 2021.
       </p>
     </section>
   );
